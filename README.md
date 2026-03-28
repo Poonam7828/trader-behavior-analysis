@@ -1,12 +1,12 @@
 #  Trader Behavior Analysis using Market Sentiment
 
-##  Objective
+## 1. Objective
 
 Analyze how market sentiment (Fear vs Greed) impacts trader behavior and performance on Hyperliquid. The objective is to uncover behavioral patterns and derive actionable trading strategies.
 
 ---
 
-##  Setup & How to Run
+## 2. Setup & How to Run
 
 ### 🔹 Requirements
 
@@ -42,7 +42,7 @@ Trader_Behavior_Analysis.ipynb
 
 ---
 
-##  Output (Charts & Tables)
+## 3. Output (Charts & Tables)
 
 The notebook generates:
 
@@ -53,7 +53,7 @@ The notebook generates:
 
 ---
 
-##  Methodology
+## 4. Methodology
 
 * Loaded and cleaned sentiment and trading datasets
 * Handled missing values and duplicates
@@ -69,7 +69,7 @@ The notebook generates:
 
 ---
 
-##  Key Insights
+## 5. Key Insights
 
 1. **Performance Difference**
 
@@ -85,7 +85,7 @@ The notebook generates:
 
 ---
 
-##  Strategy Recommendations
+## 6. Strategy Recommendations
 
 1. **During Fear Markets**
 
@@ -104,7 +104,7 @@ The notebook generates:
 
 ---
 
-##  Tools & Technologies
+## 7. Tools & Technologies
 
 * Python
 * Pandas
