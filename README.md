@@ -1,24 +1,25 @@
-## Trader Behavior Analysis using Market Sentiment
+# 📊 Trader Behavior Analysis using Market Sentiment
 
- 1. Objective
+## 📌 Objective
 
 Analyze how market sentiment (Fear vs Greed) impacts trader behavior and performance on Hyperliquid. The objective is to uncover behavioral patterns and derive actionable trading strategies.
 
+---
 
-2. Setup & How to Run
+## ⚙️ Setup & How to Run
 
-🔹 Requirements
+### 🔹 Requirements
 
 * Python 3.x
 * Jupyter Notebook
 
-🔹 Install Dependencies
+### 🔹 Install Dependencies
 
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-🔹 Run the Project
+### 🔹 Run the Project
 
 1. Clone the repository:
 
@@ -41,7 +42,7 @@ Trader_Behavior_Analysis.ipynb
 
 ---
 
-3. Output (Charts & Tables)
+## 📊 Output (Charts & Tables)
 
 The notebook generates:
 
@@ -52,7 +53,7 @@ The notebook generates:
 
 ---
 
-4. Methodology
+## 🧠 Methodology
 
 * Loaded and cleaned sentiment and trading datasets
 * Handled missing values and duplicates
@@ -68,7 +69,7 @@ The notebook generates:
 
 ---
 
-5. Key Insights
+## 🔍 Key Insights
 
 1. **Performance Difference**
 
@@ -82,9 +83,9 @@ The notebook generates:
 
    * Win rate declines during Greed, indicating increased risk-taking and overconfidence
 
+---
 
-
-6. Strategy Recommendations
+## 🚀 Strategy Recommendations
 
 1. **During Fear Markets**
 
@@ -101,9 +102,9 @@ The notebook generates:
    * Reduce position size during high volatility
    * Maintain consistent risk management practices
 
+---
 
-
-7. Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Python
 * Pandas
@@ -112,6 +113,16 @@ The notebook generates:
 * Seaborn
 * Jupyter Notebook
 
+---
 
+## 📎 Notes
+
+* Due to mismatch in date ranges between datasets, sentiment was approximated using a weekday-based mapping approach to maintain analytical consistency.
+
+---
+
+## 📬 Submission
+
+This project is submitted as part of the Data Science Intern assignment at Primetrade.ai.
 
 ---
